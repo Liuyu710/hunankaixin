@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.miaoyi.rg</string>
+				<string>com.yong.csgame</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>开心麻将</string>
+				<string>开心棋牌</string>
 			</dict>
 		</dict>
 	</array>
